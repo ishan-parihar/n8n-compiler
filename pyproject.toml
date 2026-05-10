@@ -43,8 +43,8 @@ dev = [
 n8nc = "n8n_compiler.cli:cli"
 
 [project.urls]
-Homepage = "https://github.com/ishan-parihar/n8n-workflows"
-Repository = "https://github.com/ishan-parihar/n8n-workflows"
+Homepage = "https://github.com/ishan-parihar/n8n-compiler"
+Repository = "https://github.com/ishan-parihar/n8n-compiler"
 
 [tool.setuptools.packages.find]
 where = ["."]
