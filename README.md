@@ -107,3 +107,5 @@ n8nc watch my_project/
 
 ---
 Developed by [Ishan Parihar](https://github.com/ishan-parihar) as part of a larger pursuit of scalable, engineered automation.
+
+If you find this project useful, [consider supporting its development](https://rzp.io/rzp/ishan-parihar)
